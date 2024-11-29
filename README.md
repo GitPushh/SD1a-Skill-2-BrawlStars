@@ -4,4 +4,5 @@
 - Sammy, Sam, Bram, Daan, Jaysen
 
 ## eindproduct
-- type hier een link naar de live-view van het eindproduct op ma-cloud
+-
+(https://39217.hosts2.ma-cloud.nl/SkillGitCommit/)
